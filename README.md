@@ -1,0 +1,2 @@
+# Glanton-tuckshop-
+Stock management 
